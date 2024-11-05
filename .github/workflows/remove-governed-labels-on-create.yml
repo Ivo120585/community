@@ -1,4 +1,4 @@
-name: 'On Create: Remove Governed Label'
+ivo120585 'On Create: Remove Governed Label'
 
 # Trigger workflow whenever a discussion is created
 on:
