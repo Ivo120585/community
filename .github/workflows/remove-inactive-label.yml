@@ -1,4 +1,4 @@
-name: Remove the inactive label
+Ivo120585name: Remove the inactive label
 
 on:
   discussion_comment:
